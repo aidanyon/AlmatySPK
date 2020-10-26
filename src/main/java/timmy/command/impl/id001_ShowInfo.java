@@ -13,6 +13,7 @@ public class id001_ShowInfo extends Command {
         //deleteMessage(updateMessageId);
         sendMessageWithAddition();
         return EXIT;
+        //SalamAleikum
     }
 
 
